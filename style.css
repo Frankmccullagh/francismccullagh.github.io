@@ -337,7 +337,16 @@ height: window;
 
 	@media (max-width: 600px) {
 	p.noblurTWO {
-			padding-bottom: 45px;
+			padding-bottom: 50px;
+		font-size: 1.4em;
+		top: -35px;
+		}
+	}
+	
+		@media (max-width: 600px) {
+		header {
+		font-size: 60%;
 		}
 	}
 
+	
